@@ -1,0 +1,39 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+}
+.top{
+    width: 120px; height: 19px; position: absolute;
+    background-color: gray; border-radius: 10px;
+    margin-left: 615px; margin-right: 500px; margin-top: 18px;
+
+}
+.lens{
+    position: absolute;
+    width: 0.5em; height: 0.5em;
+    margin-left: 5.5px; margin-top: 5px;
+    background: rgb(2,0,36); border-radius: 50%;
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(107,9,121,1) 35%, rgba(0,212,255,1) 100%); 
+
+}
+.cam{
+    width: 14px; height: 14px;
+    background-color: black; border-radius: 10px;
+    margin-left: 8px; margin: 3px; 
+}
+.detail{
+    width: 60px; height: 10px; position: absolute;
+    background-color: black; opacity: 0.8; border-radius: 10px;
+    border: dotted 1.8px gray;
+    margin-left: 650px; margin-top: 22px; z-index: 20; 
+}
+.btm{
+
+}
+.cell{
+    background-color: black;
+    border: 8px solid gray; border-radius: 20px; box-shadow: 8px 5px 5px #5e5b53 ;
+
+    height: 590px; width: 320px;
+    margin-left: 500px; margin-right: 500px; margin-top: 15px;
+} 
