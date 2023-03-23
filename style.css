@@ -27,12 +27,29 @@ body{
     border: dotted 1.8px gray;
     margin-left: 650px; margin-top: 22px; z-index: 20; 
 }
-.btm{
-
+.btm-1{
+    width: 10px; height: 35px; position: absolute;
+    background-color: black; opacity: 0.8; border-radius: 10px;
+    box-shadow: 2.5px 2.8px 2.5px #5e5b53;
+    margin-left: 495px; margin-right: 500px; margin-top: 80px;
+  
+}
+.btm-2{
+    width: 10px; height: 45px; position: absolute;
+    background-color: black; opacity: 0.8; border-radius: 10px;
+    box-shadow: 2.5px 2.8px 2.5px #5e5b53;
+    margin-left: 495px; margin-right: 500px; margin-top: 130px;
+  
+}
+.btm-3{
+    width: 10px; height: 45px; position: absolute;
+    background-color: black; opacity: 0.8; border-radius: 10px;
+    box-shadow: 2.5px 2.8px 2.5px #5e5b53;
+    margin-left: 495px; margin-right: 500px; margin-top: 175px;
 }
 .cell{
     background-color: black;
-    border: 8px solid gray; border-radius: 20px; box-shadow: 8px 5px 5px #5e5b53 ;
+    border: 8px solid gray; border-radius: 20px; box-shadow: 8px 5px 5px #5e5b53;
 
     height: 590px; width: 320px;
     margin-left: 500px; margin-right: 500px; margin-top: 15px;
