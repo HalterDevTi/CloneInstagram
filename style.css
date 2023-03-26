@@ -53,4 +53,28 @@ body{
 
     height: 590px; width: 320px;
     margin-left: 500px; margin-right: 500px; margin-top: 15px;
-} 
+}
+.hora{
+    color: aliceblue;
+    font-weight: bolder;
+    width: min-content;
+    margin-top: 17px; margin-left: 35px;
+}
+ .bi-bell{
+    position: absolute;
+    color: aliceblue; 
+    margin-left: 232px; margin-top: 16px;
+}
+.bi-wifi{
+    position: absolute;
+    color: aliceblue;
+    font-size:18px;
+    margin-left: 249px; margin-top: 14px;
+}
+.bi-battery-half{
+    position: absolute;
+    color: aliceblue;
+    font-size:20px;
+    margin-left: 271px; margin-top: 13.5px;
+}
+
