@@ -4,7 +4,7 @@ body{
 }
 .top{
     width: 120px; height: 19px; position: absolute;
-    background-color: gray; border-radius: 10px;
+    background-color: black; border-radius: 10px;
     margin-left: 615px; margin-right: 500px; margin-top: 18px;
 
 }
@@ -23,58 +23,103 @@ body{
 }
 .detail{
     width: 60px; height: 10px; position: absolute;
-    background-color: black; opacity: 0.8; border-radius: 10px;
-    border: dotted 1.8px gray;
+    background-color: grey; opacity: 0.8; border-radius: 10px;
+    border: dotted 1.8px black;
     margin-left: 650px; margin-top: 22px; z-index: 20; 
 }
 .btm-1{
     width: 10px; height: 35px; position: absolute;
     background-color: black; opacity: 0.8; border-radius: 10px;
-    box-shadow: 2.5px 2.8px 2.5px #5e5b53;
     margin-left: 495px; margin-right: 500px; margin-top: 80px;
   
 }
 .btm-2{
     width: 10px; height: 45px; position: absolute;
     background-color: black; opacity: 0.8; border-radius: 10px;
-    box-shadow: 2.5px 2.8px 2.5px #5e5b53;
     margin-left: 495px; margin-right: 500px; margin-top: 130px;
   
 }
 .btm-3{
     width: 10px; height: 45px; position: absolute;
     background-color: black; opacity: 0.8; border-radius: 10px;
-    box-shadow: 2.5px 2.8px 2.5px #5e5b53;
     margin-left: 495px; margin-right: 500px; margin-top: 175px;
 }
 .cell{
-    background-color: black;
-    border: 8px solid gray; border-radius: 20px; box-shadow: 8px 5px 5px #5e5b53;
+    background-color: aliceblue;
+    border: 8px solid black; border-radius: 20px; box-shadow: 8px 5px 5px #5e5b53;
 
     height: 590px; width: 320px;
     margin-left: 500px; margin-right: 500px; margin-top: 15px;
 }
 .hora{
-    color: aliceblue;
     font-weight: bolder;
     width: min-content;
     margin-top: 17px; margin-left: 35px;
 }
  .bi-bell{
     position: absolute;
-    color: aliceblue; 
     margin-left: 232px; margin-top: 16px;
 }
 .bi-wifi{
     position: absolute;
-    color: aliceblue;
     font-size:18px;
     margin-left: 249px; margin-top: 14px;
 }
 .bi-battery-half{
     position: absolute;
-    color: aliceblue;
     font-size:20px;
     margin-left: 271px; margin-top: 13.5px;
 }
+.ig{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    font-size: 26px;
+    margin-left: 520px; margin-top: 70px;
+}
+.bi-heart{
+    position: absolute;
+    font-size: 20px; font-weight: bolder;
+    margin-left: 740px; margin-top: 76.2px;
+}
+.bi-messenger{
+    position: absolute;
+    font-size: 19px; font-weight: bolder;
+    margin-left: 771px; margin-top: 75px;
+}
+.stories{
+    position: absolute;
+    display: inline-block;
+    margin-left: 512px;  margin-top: 122px;
+}
+.stories img{
+    width: 70px; height: 70px;
+    border-radius: 50%;
+    inline-size: 68px; padding: 5px; margin-left: 2px;
+    border-color:  rgb(131,58,180);
+    background: linear-gradient(45deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); ;
+}
+.me{
+    position: absolute; display: inline;
+    margin-left: 520px;  margin-top: 192px;
+    font-size: 12px; font-weight: bolder; 
+}
+.hugh{
+    position: absolute; display: inline;
+    margin-left: 594px;  margin-top: 192px;
+    font-size: 12px; font-weight: 500;
+}
+.pv{
+    position: absolute; display: inline;
+    margin-left: 667px;  margin-top: 192px;
+    font-size: 12px; font-weight: 500;
+}
+.pedro{
+    position: absolute; display: inline;
+    margin-left: 739px;  margin-top: 192px;
+    font-size: 12px; font-weight: 500;
+}
+
+
+
+
 
