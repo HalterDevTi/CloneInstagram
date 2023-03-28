@@ -118,8 +118,39 @@ body{
     margin-left: 739px;  margin-top: 192px;
     font-size: 12px; font-weight: 500;
 }
+.top-post{
+    position: absolute;
+    width: 304px; height: 39px;
+    background-color: #d7dbdb;
+    margin-left: 508px;  margin-top: 220px;
+    box-shadow: 0px 3.5px #cacfcf;
+}
+.pp{
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    margin-left: 5px; margin-top: 4.5px;
+    border: solid 3px  rgba(253,29,29,1);
+}
+.tt{
+    position: absolute;
+    font-weight: 600;
+    margin-left: 43px; margin-top: 8px;
 
-
-
+}
+.bi-patch-check-fill{
+    position: absolute;
+    font-size: 15px; color: #4384e6;
+    margin-left: 133px; margin-top: 10.3px;
+}
+.bi-three-dots-vertical{
+    position: absolute;
+    font-size: 17px;
+    margin-left: 283px; margin-top: 7.5px;
+}
+.feed{
+    position: absolute;
+    width: 305px; height: 285px; 
+    margin-left: 508px;  margin-top: 260px;
+}
 
 
