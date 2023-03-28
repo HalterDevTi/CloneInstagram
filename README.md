@@ -1,7 +1,7 @@
 # Clone Instagram
 ## Clone do instagram feito com meus conhecimentos atuais de html css!
 ## (EN) Instagram clone made with my current knowledge of html css!
-> Current version 2.0(Now we have Feed))
+> Current version 3.0(Now we have Feed))
 ![cell5](https://user-images.githubusercontent.com/101679144/228281584-dd9f2784-7a46-4995-8ee0-2f42555d8e56.png)
 > Current version 2.0(Now we have Stories))
 ![cell4](https://user-images.githubusercontent.com/101679144/227971742-f49d1e24-29bc-40be-9441-55d3887bcb36.png)
