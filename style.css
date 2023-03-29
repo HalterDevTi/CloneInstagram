@@ -152,5 +152,41 @@ body{
     width: 305px; height: 285px; 
     margin-left: 508px;  margin-top: 260px;
 }
-
+.bot{
+    position: absolute;
+    width: 304px; height: 39px;
+    background-color: #d7dbdb;
+    margin-left: 508px;  margin-top: 543px;
+    border-radius: 12px;
+}
+.bi-house{
+    position: absolute;
+    font-size: 20px; font-weight: 600;
+    margin-left: 550px;  margin-top: 548px;
+    z-index: 50;
+}
+.bi-search{
+    position: absolute;
+    font-size: 18px; font-weight: 600;
+    margin-left: 605px;  margin-top: 550px;
+    z-index: 50;
+}
+.bi-plus-square{
+    position: absolute;
+    font-size: 18px; font-weight: 600;
+    margin-left: 660px;  margin-top: 550px;
+    z-index: 50;
+}
+.bi-film{
+    position: absolute;
+    font-size: 18px; font-weight: 600;
+    margin-left: 715px;  margin-top: 550px;
+    z-index: 50;
+}
+.bi-person-circle{
+    position: absolute;
+    font-size: 20px; font-weight: 600;
+    margin-left: 770px;  margin-top: 547px;
+    z-index: 50;
+}
 
